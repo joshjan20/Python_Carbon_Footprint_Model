@@ -1,0 +1,12 @@
+activity,emission_factor
+car,0.404
+bus,0.089
+train,0.021
+flights_short,0.254
+flights_long,0.150
+electricity,0.475
+gas,0.185
+waste,0.3
+beef,27.0
+chicken,6.9
+vegetables,1.0
